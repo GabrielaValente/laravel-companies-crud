@@ -1,8 +1,6 @@
 
 <h1> Project Laravel <h1>
 
-  
- > Status: Developing ⚠️
     
  ### Essa é uma aplicação web desenvolvida em Laravel e PHP, utilizando banco de dados para armazenar os registros. Seguindo a estrutura MVC, Model, View e Controller. 
  Também foi utilizado o Blade, Eloquent e JQuery.
@@ -23,17 +21,6 @@
  + tempo de final das atividades
  + switch/checkbox para selecionar se a empresa é especial
  + endereço: cep, logradouro, complemento, número, bairro, latitude e longitude.
-
-  
-
- ## Funcionalidades futuras
-  
-   
-+ Tela de cadastro de usuários
-+ Anexo de documentos
-+ Tratamento de hora e data.
-+ Botões de navegação entre as telas (voltar, sair)
-+ Tela de detalhamento das informações (page single)
 
  ## Tecnologias utilizadas
 
